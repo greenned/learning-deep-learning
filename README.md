@@ -4,7 +4,7 @@
 
 # Book
 
-<center><img src="./img/deeplearning.png" width="50%" height="50%"></center>
+<p align="center"><img src="./img/deeplearning.png" width="50%" height="50%"></p>
 
 
 - [Ian Goodfellow의 Deep Learning](https://product.kyobobook.co.kr/detail/S000002391755)을 교과서로 학습합니다
